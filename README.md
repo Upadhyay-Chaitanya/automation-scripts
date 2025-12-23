@@ -102,7 +102,7 @@ Pull requests and suggestions are welcome! Please create an issue for major chan
 
 ## License
 
-Specify your project’s license here (e.g., MIT, Apache 2.0, etc.)
+MIT License — see [LICENSE](./LICENSE) file for details.
 
 ---
 
